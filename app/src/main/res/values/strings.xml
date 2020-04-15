@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+
+    <!--Items personalizados-->
+    <string name="item_precio">$ 25</string>
+    <string name="item_nombre_local">Nombre del Local</string>
+
+
 </resources>
